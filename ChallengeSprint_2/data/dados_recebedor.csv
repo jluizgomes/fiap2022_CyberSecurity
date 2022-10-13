@@ -1,0 +1,5 @@
+id,Código Rastreo,Produtos,Comprador,Nome Recebedor,Sobrenome Recebedor,Identificação Recebedor,Logradouro,Numero,Complemento,CEP,Cidade,Estado,|Localização (Lat, Long)|,Data e hora da entrega
+01002,BASF01002XDF,|['BASF01002', 'BASF02032']|,01002,Augusto,Rezende,29.557.865-9,123.456.789-00,Deep Security LTDA,10.782.001/0002-88,Rua dos Agronomos,05,Cj. 101,98800-000,São Paulo,SP,|-23.550520, -46.633308|,06/15/2022 às 19:30:41
+id,Código Rastreo,Produtos,Comprador,Nome Recebedor,Sobrenome Recebedor,Identificação Recebedor,Logradouro,Numero,Complemento,CEP,Cidade,Estado,|Localização (Lat, Long)|,Data e hora da entrega
+01002,BASF01002XDF,|['BASF01002', 'BASF02032']|,01002,Augusto,Rezende,29.557.865-9,123.456.789-00,Deep Security LTDA,10.782.001/0002-88,Rua dos Agronomos,05,Cj. 101,98800-000,São Paulo,SP,|-23.550520, -46.633308|,06/15/2022 às 19:30:41
+01002,BASF01002XDF,"['BASF01002', 'BASF02032']",01002,Augusto,Rezende,29.557.865-9,123.456.789-00,Deep Security LTDA,10.782.001/0002-88,Rua dos Agronomos,05,Cj. 101,98800-000,São Paulo,SP,"-23.550520, -46.633308",06/15/2022 às 19:30:41
